@@ -9,6 +9,7 @@ int main() {
 	int r = 10;
 	int c = 5;
 	inputmarks(marks, r, c);
+	return 0;
 
 }
 void inputmarks(int marks[10][5], int rows, int cols)
