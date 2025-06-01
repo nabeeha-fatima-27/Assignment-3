@@ -8,6 +8,7 @@ int main() {
 	int rows = 6;
 	int cols = 4;
 	inputdata(scores, rows, cols);
+	return 0;
 }
 void inputdata(int scores[6][4], int rows, int cols) {
 	for (int i = 0; i < rows; i++)
